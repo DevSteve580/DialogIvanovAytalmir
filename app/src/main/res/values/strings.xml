@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogIvanovAytalmir</string>
+    <string name="btn">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="redColor">#ff0000</string>
+    <string name="yellowColor">#ffff00</string>
+    <string name="greenColor">#00ff00</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+</resources>
